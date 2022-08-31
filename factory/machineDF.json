@@ -1,0 +1,9 @@
+{
+	"name": "machineDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d139772b-9874-4524-a5cb-aaa7f785849a",
+		"tenantId": "55e374bf-374e-49de-a716-836ce6f714d1"
+	}
+}
